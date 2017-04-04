@@ -1,0 +1,8 @@
+{
+    "javac-linter.enable": true,
+    "javac-linter.maxNumberOfProblems": 100,
+    "javac-linter.javac": "/usr/bin/javac",
+    "javac-linter.classpath": [
+        "${workspaceRoot}/src/**/*.class"
+    ]
+}
