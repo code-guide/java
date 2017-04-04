@@ -8,7 +8,3 @@
 - process_control
 - array
 - oop
-
-
-
-
